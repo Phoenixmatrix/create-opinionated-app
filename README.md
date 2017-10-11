@@ -1,4 +1,4 @@
-# Create React App [![Build Status](https://travis-ci.org/facebookincubator/create-react-app.svg?branch=master)](https://travis-ci.org/facebookincubator/create-react-app)
+# Create Opinionated App (Fork of create-react-app, very early stage, nothing to see here)
 
 Create React apps with no build configuration.
 
