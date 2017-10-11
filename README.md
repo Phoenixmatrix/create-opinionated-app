@@ -1,4 +1,6 @@
-# Create Opinionated App (Fork of create-react-app, very early stage, nothing to see here)
+# Create Opinionated App
+
+> This is a Fork of create-react-app, very early stage, nothing to see here.
 
 Create React apps with no build configuration.
 
