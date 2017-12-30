@@ -1,6 +1,6 @@
 {
   "name": "@phoenixmatrix/opinionated-scripts",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Modified version of Create React App. A bit more opinionated.",
   "repository": "Phoenixmatrix/create-opinionated-app",
   "license": "MIT",
